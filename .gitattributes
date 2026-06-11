@@ -1,0 +1,5 @@
+*.msi binary
+*.md text eol=lf
+SHA256SUMS.txt text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf

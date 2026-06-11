@@ -1,0 +1,13 @@
+*
+/_private/
+!README.md
+!SHA256SUMS.txt
+!.gitignore
+!.gitattributes
+!1.0.1-mvp/
+!1.0.1-mvp/docs/
+!1.0.1-mvp/docs/**/
+!1.0.1-mvp/docs/*.md
+!1.0.1-mvp/docs/**/*.md
+!1.0.1-mvp/installer/
+!1.0.1-mvp/installer/*.msi

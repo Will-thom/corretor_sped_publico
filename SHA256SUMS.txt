@@ -1,0 +1,3 @@
+7e053829c0462a8ab99663933417f271a886466696fc71428ed389a1b85689c4  README.md
+1c49fa7291bf0bfab4f7ef4fa528e8248b1e21290038d213b86c27db95d699d1  1.0.1-mvp/docs/README.md
+5d75b0d5eed0e05b73d32fe09fe840f1fcd475cb3dc58ecca9ff719ff2ffd6e6  1.0.1-mvp/docs/exemplos/teste_manual/README.md
